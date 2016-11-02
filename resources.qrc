@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/GeoIGN" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
